@@ -1,2 +1,2 @@
 # Data_Science_Capstone
-### Here you can find all the developed notebooks and Python files of the final Data science project
+Here you can find all the developed notebooks and Python files of the final Data science project, including data extraction using APIs, data wrangling and a Exploratory Data Analysis (EDA). Also, interactive data visualizations tools can be seen in this repository, including interactive maps using folium, and a interactive dashboard using desh. Finally, a notebook can be found in this repository where multiple classification algorithms were tested to select the best one for predicting whether a Space X rocket will land succesfully or not.
